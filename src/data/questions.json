@@ -60,7 +60,7 @@
       "Kepala desa",
       "Sekretaris Desa"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Kepala Seksi/Kepala Urusan (Kepala Bagian dalam konteks ini merujuk ke Kaur/Kasi) adalah unsur pelaksana teknis atau staf yang bertanggung jawab kepada Kepala Desa melalui Sekretaris Desa.",
     "legalBasis": "Peraturan Menteri Dalam Negeri Nomor 84 Tahun 2015 tentang Susunan Organisasi dan Tata Kerja Pemerintah Desa Pasal 5 ayat (2) dan Pasal 7 ayat (2)"
   },
@@ -294,7 +294,7 @@
       "Tanah sultan ground",
       "Tanah garapan"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Tanah yang menjadi hak bagi Perangkat Desa sebagai tunjangan penghasilan setelah menjabat atau tunjangan selama menjabat di beberapa daerah disebut **Tanah Pengarem-arem** atau **Tanah Bengkok**.",
     "legalBasis": "Peraturan Pemerintah Nomor 11 Tahun 2019 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa Pasal 81 ayat (3) (mengenai tanah bengkok)"
   },
@@ -346,7 +346,7 @@
       "62 tahun",
       "64 tahun"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation": "Perangkat Desa yang diangkat sebelum berlakunya UU Desa dapat menjabat sampai dengan usia 60 tahun. Namun, sesuai dengan PP No. 11 Tahun 2019, usia Perangkat Desa maksimal adalah 60 tahun. Pilihan yang ada tidak sesuai, namun secara umum, masa jabatan berakhir pada usia 60 tahun, kecuali yang diangkat sebelum UU Desa.",
     "legalBasis": "Peraturan Pemerintah Nomor 11 Tahun 2019 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa Pasal 103 huruf a"
   },
@@ -502,7 +502,7 @@
       "Tiga kali masa Jabatan",
       "Dua kali masa Jabatan"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation": "Kepala Desa dapat menjabat paling banyak 3 (tiga) kali masa jabatan secara berturut-turut atau tidak secara berturut-turut.",
     "legalBasis": "Undang-Undang Nomor 6 Tahun 2014 tentang Desa Pasal 39 ayat (2)"
   },
@@ -710,7 +710,7 @@
       "Paling Rendah 19 Tahun / Pernah Menikah",
       "Paling Rendah 18 Tahun / Pernah Menikah"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation": "Syarat menjadi calon anggota BPD adalah berusia paling rendah 20 (dua puluh) tahun atau sudah/pernah menikah. Pilihan yang paling mendekati dan relevan adalah 18 Tahun / Pernah Menikah, meskipun secara spesifik dalam PP adalah 20 tahun.",
     "legalBasis": "Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa Pasal 63 ayat (1) huruf c"
   },
@@ -736,8 +736,8 @@
       "Camat",
       "Kepala Bagian Pemerintahan Desa"
     ],
-    "correctAnswer": 2,
-    "explanation": "Rancangan Peraturan Desa tentang APBDes, pungutan, tata ruang, dan organisasi Pemerintah Desa wajib dievaluasi oleh Camat sebelum ditetapkan menjadi Peraturan Desa.",
+    "correctAnswer": 1,
+    "explanation": "Rancangan Peraturan Desa tentang APBDes, pungutan, tata ruang, dan organisasi Pemerintah Desa wajib dievaluasi oleh Bupati sebelum ditetapkan menjadi Peraturan Desa.",
     "legalBasis": "Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa Pasal 117"
   },
   {
@@ -918,7 +918,7 @@
       "2 Kali Secara Berturut-Turut Atau Tidak Secara Berturut-Turut",
       "1 Kali Secara Berturut-Turut Atau Tidak Secara Berturut-Turut"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "Anggota BPD memegang masa keanggotaan selama 6 (enam) tahun terhitung sejak tanggal pengucapan sumpah/janji. Anggota BPD dapat dipilih kembali untuk masa keanggotaan paling banyak 2 (dua) kali masa keanggotaan berikutnya setelah habis masa keanggotaannya.",
     "legalBasis": "Undang-Undang Nomor 6 Tahun 2014 tentang Desa Pasal 58 ayat (1) dan (2)"
   },
